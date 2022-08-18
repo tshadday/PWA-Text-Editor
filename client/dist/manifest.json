@@ -31,12 +31,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Text Box",
-  "short_name": "Text",
+  "name": "Just Another Text Editor",
+  "short_name": "Jate",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": "./",
-  "description": "Test your code!",
+  "description": "Write your code!",
   "background_color": "#225ca3",
   "theme_color": "#225ca3"
 }
